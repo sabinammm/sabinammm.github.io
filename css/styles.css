@@ -69,6 +69,7 @@ p {
   padding: 40px;
 }
 
+/*
 .image {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
   background-size: cover;
