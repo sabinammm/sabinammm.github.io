@@ -42,7 +42,7 @@ p {
 
 .byline {
   color: rgba(255, 255, 255, 0.5);
-  float: right;
+  float: left;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 14px;
